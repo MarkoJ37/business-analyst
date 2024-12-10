@@ -1,7 +1,7 @@
 # My projects
 
 ## List of projects
-- [Project: Wells Fargo - Analysis of their GDPR compliance](#Project:-Wells Fargo---Analysis-of-their-GDPR-compliance)
+- [Project: Wells Fargo - Analysis of their GDPR compliance](#Project:-Wells-Fargo---Analysis-of-their-GDPR-compliance)
 ### Project: Wells Fargo - Analysis of their GDPR compliance
 
 Conducted a comprehensive analysis of Wells Fargo’s GDPR compliance, utilizing tools such as **Data Flow Diagrams**, **CRUD matrix**, **root cause analysis**, and **AWS S3 capabilities**. Proposed actionable improvements in employee training, legacy system upgrades, and data governance strategies to enhance compliance and data security. Focused on aligning processes with GDPR principles while ensuring operational scalability and transparency.
