@@ -6,27 +6,27 @@
 - [Project: Professional app - A service marketplace platform](#project-professional-app---a-service-marketplace-platform)
 - [Project: Google Sheets-Based Order and Inventory Management System](#project-google-sheets-based-order-and-inventory-management-system)
   
-### Project: Wells Fargo - Analysis of their GDPR compliance
+## Project: Wells Fargo - Analysis of their GDPR compliance
 
 Conducted a comprehensive analysis of Wells Fargo’s GDPR compliance, utilizing tools such as **Data Flow Diagrams**, **CRUD matrix**, **root cause analysis**, and **AWS S3 capabilities**. Proposed actionable improvements in employee training, legacy system upgrades, and data governance strategies to enhance compliance and data security. Focused on aligning processes with GDPR principles while ensuring operational scalability and transparency.
 
 - Project documentation: [Wells Fargo - Analysis of GDPR compliance.pdf](https://github.com/user-attachments/files/18073573/Wells.Fargo.-.Analysis.of.GDPR.compliance.pdf)
 - Project presentation: [Wells Fargo Presentation - Analysis of GDPR compliance.pptx](https://github.com/user-attachments/files/18073578/Wells.Fargo.Presentation.-.Analysis.of.GDPR.compliance.pptx)
 
-### Project: Advanced spreadsheet modeling using Excel - Baker Products
+## Project: Advanced spreadsheet modeling using Excel - Baker Products
 
 Developed an Excel-based optimization model to maximize contribution margin by analyzing production constraints and resource utilization. Proposed optimal production plans for oak and pine products, achieving a $900 contribution margin. The model adapts to changes in costs and demand, ensuring scalability and data-driven decision-making for future business scenarios.
 
 - Spreadsheet model: [Baker Products - Model.xlsx](https://github.com/user-attachments/files/18073602/Baker.Products.-.Model.xlsx)
 - Project presentation: [Baker Products - Presentation.pptx](https://github.com/user-attachments/files/18073606/Baker.Products.-.Presentation.pptx)
 
-### Project: Professional app - A service marketplace platform
+## Project: Professional app - A service marketplace platform
 
 Conceptualized a professional services marketplace connecting consumers with skilled professionals for tasks such as home repairs, tutoring, and beauty services. Defined user stories, use cases, and activity diagrams to detail platform functionality, focusing on features like real-time booking, review systems, and dispute resolution. Designed a scalable and secure architecture, integrating administrative and customer support tools to enhance user experience and operational efficiency.
 
 - Project report: [Professional - Version 2.0.pdf](https://github.com/user-attachments/files/18074001/Professional.-.Version.2.0.pdf)
 
-### Project: Google Sheets-Based Order and Inventory Management System
+## Project: Google Sheets-Based Order and Inventory Management System
 
 This project integrates WooCommerce, Google Sheets, and AppSheet to streamline eCommerce operations, including order processing, inventory management, and live performance reporting. It features real-time dashboards, manual courier list generation, and procurement tracking, providing actionable insights and ensuring efficient workflows.
 
